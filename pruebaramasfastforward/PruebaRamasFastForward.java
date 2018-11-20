@@ -15,7 +15,7 @@ public class PruebaRamasFastForward {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Estoy en la ptimera rama");     
+        System.out.println("Estoy en la ultima parte de la rama");     
     }
     
 }
